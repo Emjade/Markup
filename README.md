@@ -1,5 +1,5 @@
 # Markup
-Markup is a TextEditor which has in built Fact Checking features. The project was inspired by the Fake News Project which I have worked with along with the BBC. 
+Markup is a TextEditor which has in built Fact Checking features. The project was inspired by the Fake News Project which I have worked with along with the BBC. The following product is now being developed under [MainSpace](https://github.com/mainspace-org) 
 
 The following is written in python2.7. The Following is still in developing functionality, however a prototype can be run at `archives\prototype.py`.
 
